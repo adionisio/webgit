@@ -1,6 +1,12 @@
 body{
 	background-color: #DDDDDD;
 }
+.content{
+	width: 80%;
+	margin: 1% auto;
+	background-color: #FFFFFF;
+	border: 3px solid #000000;
+}
 .footer{
 	background: #000000;
 }
