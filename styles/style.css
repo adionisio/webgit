@@ -1,3 +1,11 @@
 body{
 	background-color: #DDDDDD;
 }
+
+.content{
+	width: 80%;
+	margin: 1% auto;
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+
+}
